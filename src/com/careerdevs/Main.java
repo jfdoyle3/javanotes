@@ -11,7 +11,7 @@ public class Main {
        // ReferenceTypes displayReferences=new ReferenceTypes();
       //  displayReferences.references();
 
-        Arrays displayArrays=new Arrays();
+        ArrayClass displayArrays=new ArrayClass();
         displayArrays.arrays();
 
     }

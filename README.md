@@ -38,3 +38,34 @@ IDE: IntellJ community edition 2019.3.4
 ------
 
 ### 	Reference Types
+
+------
+
+### Arrays
+
+Java Arrays work like other languages.
+
+`Arrays.deepToString(multiDimensionalArrayName)` Console output Multi-Dimensional Arrays.
+
+------
+
+### Constants
+
+use `final` as constants. Capitalize constant variables.
+
+```java
+final float PI=3.14F;
+
+```
+
+### Math Operations
+
+```java
+int x=1;
+
+int y=x++;
+ouptut: x=2 y=1
+int y=++x;
+output: x=2 y=2
+```
+
